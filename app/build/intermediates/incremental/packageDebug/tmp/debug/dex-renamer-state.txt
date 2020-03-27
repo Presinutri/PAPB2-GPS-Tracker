@@ -1,0 +1,4 @@
+#Fri Mar 27 20:30:09 ICT 2020
+base.0=C\:\\Users\\L E N O V O\\AndroidStudioProjects\\android-advanced\\WalkMyAndroid-Solution\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
